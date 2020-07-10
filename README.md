@@ -1,16 +1,12 @@
-### Hi there 👋
+# Vinicius Sales
+[![Linkedin Badge](https://img.shields.io/badge/-viniciussales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-sales/)](https://www.linkedin.com/in/vinicius-sales/)
+[![Gmail Badge](https://img.shields.io/badge/-vinicius.2010.s@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.2010.s@gmail.com)](mailto:vinicius.2010.s@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-vinicius98s-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vinicius98s)](https://twitter.com/vinicius98s)
 
-<!--
-**vinicius98s/vinicius98s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋
+My name is Vinicius Sales and I'm FullStack developer currently working with React, Node and GraphQL 🚀 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Golang
+- 💬 Ask me about anything you want
+- 📫 How to reach me: mail me at [vinicius.2010.s@gmail.com](mailto:vinicius.2010.s@gmail.com)
+- ⚡ Fun fact: I already contributed to [React](https://github.com/reactjs/pt-BR.reactjs.org/pull/108) and [Gatsby](https://github.com/gatsbyjs/gatsby-pt-BR/pull/267) official documentations
